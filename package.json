@@ -1,0 +1,26 @@
+{
+  "name": "base-custom-webcomponent-sample",
+  "description": "Sample for using baseCustomWebcomponent",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "web-dev-server --node-resolve --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-projects/base-custom-webcomponent-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-projects/base-custom-webcomponent-sample/issues"
+  },
+  "homepage": "https://github.com/node-projects/base-custom-webcomponent-sample#readme",
+  "dependencies": {
+    "@node-projects/base-custom-webcomponent": "^0.2.0",
+    "@web/dev-server": "^0.1.28"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
